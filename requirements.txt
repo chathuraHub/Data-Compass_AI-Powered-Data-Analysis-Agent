@@ -1,0 +1,10 @@
+streamlit>=1.40
+pandas>=2.2
+numpy
+plotly
+pydantic>=2
+openpyxl
+python-dotenv
+langchain>=1.0
+langchain-groq
+langgraph
